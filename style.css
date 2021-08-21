@@ -1,0 +1,73 @@
+@font-face {
+    font-family: west; src: url('norwester.otf');
+} 
+body{
+    background-color: #5E594D;
+}
+
+#main{
+    font-family: west, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.title-div{
+    background-color: #ad3626f3;
+    border-radius: 10px 10px 0 0;
+    text-align: center;
+    color: #0f0e0d;
+    padding: 1px 0;
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+    font-size: 2rem;
+}
+
+
+#img-div{
+    background-color: #2D2A32;
+    color: #B0A084;
+    width: 90%;
+    margin: auto;
+    padding: 20px 0;
+    text-align: center;
+}
+
+#img-caption{
+    max-width: 80%;
+    height: auto;
+    border-radius: 20px;
+
+}
+
+#tribute-info{
+    width: 90%;
+    margin: auto;
+    padding: 20px 0;
+    background-color: #971C0C;
+    color: #B0A084;
+    font-size: 2rem;
+}
+
+#tribute-info #biografia, #tribute-info h3{
+    margin: 20px 40px;
+}
+
+footer{
+    background-color: #2D2A32;
+    color: #B0A084;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 10px 0;
+    border-radius: 0 0 10px 10px ;
+    text-align: right;
+}
+
+footer p{
+    text-align: right;
+    margin: 10px 20px;
+    font-size: 1.2rem;
+}
+
+a{
+    color: #B0A084;
+    text-decoration: none;
+}
